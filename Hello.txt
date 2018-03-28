@@ -1,1 +1,1 @@
-I am trying to edit this line too!!! But on my local computer!
+Hello World! I am demoing git in my EECS183 Lab
